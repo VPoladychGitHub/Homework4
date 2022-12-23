@@ -1,0 +1,10 @@
+.cat {
+  border: 1px solid black;
+  padding: 5px;
+  background-color: bisque;
+  cursor: pointer;
+  position: absolute;
+  top:10px;
+  left:10px;
+  transition: transform 0.5s;
+}
